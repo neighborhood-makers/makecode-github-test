@@ -1,7 +1,31 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="YmoSmvEk0LuZ;t#dMj$@" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="?ILAQWRl=Y:+WlP;y7Jd"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="YmoSmvEk0LuZ;t#dMj$@" x="0" y="0"></block><block type="device_forever" id="BP%O97%/gNyh^~7:E@[A" x="283" y="43"></block><block type="every_interval" id="R*ux%hJVP%;(o#GVr:|1" x="0" y="84"><value name="interval"><shadow type="longTimePicker" id="L@0?kyhxuVmerQjOd2N`"><field name="ms">100</field></shadow></value><statement name="HANDLER"><block type="device_show_leds" id="jvqo9/3?yIB[ReHEag)%"><field name="LEDS">`
+        . . # # # 
+        . . . # . 
+        . . . # . 
+        . . . # . 
+        . . . . .
+        `</field></block></statement></block><block type="every_interval" id="aIUHt]QPJ$4yUlix=wN~" x="550" y="128"><value name="interval"><shadow type="longTimePicker" id="qjt29Lg+H_fJ%0wt^5Zd"><field name="ms">100</field></shadow></value><statement name="HANDLER"><block type="device_show_leds" id="?ILAQWRl=Y:+WlP;y7Jd"><field name="LEDS">`
         . . # . . 
         . # # # . 
         . . # . . 
         . . # . . 
         . . # . .
-        `</field></block></statement></block><block type="device_forever" id="BP%O97%/gNyh^~7:E@[A" x="205" y="0"></block></xml>
+        `</field></block></statement></block><block type="every_interval" id="^z/2YEz3T*i.um$=HxOy" x="144" y="232"><value name="interval"><shadow type="longTimePicker" id="XhPl{+blgt+I9M1VcPXe"><field name="ms">100</field></shadow></value><statement name="HANDLER"><block type="device_show_leds" id="m2hktKx]82H?(32R[*cl"><field name="LEDS">`
+        . # . . . 
+        # # # . . 
+        . # . . . 
+        . # . . . 
+        . # . . .
+        `</field></block></statement></block><block type="every_interval" id="(.D{cU[iKu+1}*:4=.6|" x="-2" y="365"><value name="interval"><shadow type="longTimePicker" id="Yv+4Nf5Gfuf}JThbcu%Z"><field name="ms">100</field></shadow></value><statement name="HANDLER"><block type="device_show_leds" id="M#=D0^O87n!8ZL*-8Y`U"><field name="LEDS">`
+        . . . . . 
+        . # . . . 
+        # # # . . 
+        . # . . . 
+        . # . . .
+        `</field></block></statement></block><block type="every_interval" id="[4p0i_7Ll;g~)TUZ|YeB" x="348" y="371"><value name="interval"><shadow type="longTimePicker" id="s#Y|ePM)@vY6!5}3^(z?"><field name="ms">100</field></shadow></value><statement name="HANDLER"><block type="device_show_leds" id="uQwJqW3ur8Y.d_#O8I!$"><field name="LEDS">`
+        . . . # . 
+        . . # # # 
+        . . . # . 
+        . . . # . 
+        . . . # .
+        `</field></block></statement></block></xml>
